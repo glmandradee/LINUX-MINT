@@ -3,6 +3,8 @@
 ### Preste bastante atenção nos passos, para que não de nada errado!
  
 ## O Linux Mint é um sistema operacional para computadores, projetado para funcionar na maioria dos sistemas computacionais modernos. O Linux Mint cumpre as mesmas funções que os sistemas operacionais Microsoft Windows, Mac OS da Apple, e o Free BSD.
+
+![alt text](Imagens/Capturar1.PNG) 
  
 ## MANUAL- INSTALAÇÃO DO SISTEMA OPERACIONAL LINUX MINT
  
